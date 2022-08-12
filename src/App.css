@@ -1,0 +1,31 @@
+.container{
+  display: grid;
+  flex-wrap: wrap;
+  grid-template-columns: 1fr 1fr 1.5fr;
+  padding: 1rem;
+  grid-gap: 1rem;
+}
+
+.search{
+  padding: 1rem;
+  text-align: center;
+  background: aliceblue;
+  height: 23rem;
+  opacity: 0.7;
+  background-image: url("https://pixabay.com/get/gf635c1d19e18b9de8108898fb4c1cc0c657a1bf6d891621b965238283600e1ab569832b9655136a49f8ed5f3164669d0f9b79c67da03d142857d8514ff631470_1280.jpg");
+
+}
+.search_input{
+  background-color: rgb(251, 251, 253);
+  border-color: rgb(210, 212, 220);
+  padding: 0.0625rem 0.75rem;
+ 
+  height: 3.25rem;
+  width: 70%;
+  margin: 1rem;
+  background: #fff;
+  border-radius: 5px;
+  border: 4px solid #242323;
+  font: normal 16px Open Sans,Arial,sans-serif;
+  text-align: center;
+}
