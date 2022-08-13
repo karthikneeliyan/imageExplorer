@@ -26,7 +26,6 @@ export const SearchBox = ({ setImages }: { setImages: any }) => {
 
   return (
     <div className="search">
-      <h3>Please place the link to short</h3>
       <input
         ref={inputref}
         onKeyDown={handleChange}
