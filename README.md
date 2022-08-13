@@ -1,2 +1,15 @@
 # imageExplorer
-Created with CodeSandbox
+
+Search images
+##  Installation
+
+```bash
+# server
+$ npm install
+
+# start
+$ npm start
+```
+
+
+
