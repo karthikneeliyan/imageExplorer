@@ -19,8 +19,8 @@ body{
   text-align: center;
   background: aliceblue;
   height: 23rem;
-  opacity: 0.7;
-  background-image: url("https://pixabay.com/get/gf635c1d19e18b9de8108898fb4c1cc0c657a1bf6d891621b965238283600e1ab569832b9655136a49f8ed5f3164669d0f9b79c67da03d142857d8514ff631470_1280.jpg");
+  opacity: 0.9;
+  background-image: url("https://cdn.pixabay.com/photo/2022/07/26/03/31/sea-7344974_1280.jpg");
 
 }
 .search_input{
@@ -40,6 +40,12 @@ body{
   text-align: center;
 }
 
+.searchicon{
+  font-size: 2rem;
+  right: 4rem;
+  top: 9rem;
+  position: relative;
+}
 .img__description {
   position: relative;
   /* top: 5rem; */
